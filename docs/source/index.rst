@@ -10,6 +10,7 @@ test1
 -----
 
 add some comments here
+this is test
 
 .. toctree::
    :maxdepth: 2
