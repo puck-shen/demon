@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, puck
+# This file is distributed under the same license as the Quectel package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quectel \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-19 19:22+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/index.rst:15
+msgid "Contents:"
+msgstr "目录"
+
+#: ../../source/index.rst:7 18dc52db1d914ebc9877b98cd6a07bd7
+msgid "Welcome to mybook's documentation!"
+msgstr "欢迎来到mybook的文档"
+
+#: ../../source/index.rst:10 32293fe9ebc94c52b108c3d72e2a8dad
+msgid "test1"
+msgstr "测试1"
+
+#: ../../source/index.rst:12 32cbe90d8e7c47999bd664b2eff76b37
+msgid "add some comments here this is test"
+msgstr "在这加入一些测试"
+
+#: ../../source/index.rst:22 8b0a5c99dd11430c9da44838789def32
+msgid "Indices and tables"
+msgstr "目录"
+
+#: ../../source/index.rst:24 5c200dde407b4e9ab755b4ec36c63530
+msgid ":ref:`genindex`"
+msgstr "ref1"
+
+#: ../../source/index.rst:25 e37fca9a0d2c442cb011afa186719467
+msgid ":ref:`modindex`"
+msgstr "ref2"
+
+#: ../../source/index.rst:26 75bfa94759e1455d9dc9c7986130ccef
+msgid ":ref:`search`"
+msgstr "ref3"
+
