@@ -31,3 +31,5 @@ To build the code and run basic tests on your host::
 
         cd example
         make
+
+test
